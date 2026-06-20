@@ -1,5 +1,5 @@
 Amit Joshi's submission for MLDS Fall 2018 Contest.
-email: amit.joshiusa@gmail.com
+email: amit2724joshi@gmail.com
 
 Run run.sh to run all programs in order.
 
